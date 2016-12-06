@@ -13,7 +13,7 @@
    id="svg7570"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="2530-8PoE-Aruba.svg">
+   sodipodi:docname="2530-8PoEP.svg">
   <metadata
      id="metadata8956">
     <rdf:RDF>
@@ -42,9 +42,9 @@
      id="namedview8952"
      showgrid="false"
      units="px"
-     inkscape:zoom="4"
-     inkscape:cx="111.73591"
-     inkscape:cy="-23.420846"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="114.50293"
+     inkscape:cy="116.05255"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -73,7 +73,7 @@
        width="206"
        y="376.58701"
        x="66.588699"
-       style="fill:#2f2524;fill-opacity:1;stroke:#000000;stroke-width:0.40000001" />
+       style="fill:#231f20;fill-opacity:1;stroke:#000000;stroke-width:0.40000001" />
   </g>
   <g
      id="g7580"
@@ -96,7 +96,7 @@
        width="195.60001"
        y="376.987"
        x="76.588699"
-       style="fill:#2f2524;fill-opacity:1;stroke:#e7e7e7;stroke-width:0.2;stroke-linejoin:round" />
+       style="fill:#231f20;fill-opacity:1;stroke:#e7e7e7;stroke-width:0.2;stroke-linejoin:round" />
   </g>
   <text
      id="text8302"
@@ -1237,7 +1237,7 @@
        style="fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
   <rect
-     style="opacity:1;fill:#170f0f;fill-opacity:1;stroke:#000000;stroke-width:0.21250248;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#231f20;fill-opacity:1;stroke:#000000;stroke-width:0.21250248;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect27374-3"
      width="10.427728"
      height="4.9758496"
