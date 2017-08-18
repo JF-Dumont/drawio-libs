@@ -13,13 +13,13 @@ https://www.draw.io/?splash=0&clibs=Uhttps://raw.githubusercontent.com/JF-Dumont
 
 
 
-##Please note :
+## Please note :
  I use trademarks logo that are licensed.
 The logos, pictures and brands which are in these shapes belong to their respective holders. 
 So these shapes are only for personal use.
 Otherwise you can remove logos from svg source shapes and then use them as the GNU GENERAL PUBLIC LICENSE Version 3 allows.
 <http://www.gnu.org/licenses/>
 
-##Exemple
+## Exemple
 
 ![Sample screenshot](https://github.com/JF-Dumont/drawio-libs/blob/master/librairie-exemple.png)
