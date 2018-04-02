@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="207" height="42.7" version="1.1" viewBox="70.4 401.06667 207 42.700001" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m71.389 401.45c-0.54822 0-0.98828 0.35958-0.98828 0.80469v39.46c0 0.44512 0.44007 0.80274 0.98828 0.80274h205.02c0.54822 0 0.98828-0.35762 0.98828-0.80274v-39.46c0-0.44511-0.44006-0.80469-0.98828-0.80469zm3.7598 4.734c2.0215-1.7e-4 3.6604 1.6387 3.6602 3.6602 1.66e-4 2.0215-1.6387 3.6604-3.6602 3.6602-2.0215 1.7e-4 -3.6604-1.6387-3.6602-3.6602-1.66e-4 -2.0215 1.6387-3.6604 3.6602-3.6602z" fill="#ccc" stroke-width="1.3871"/>
+ <g transform="translate(-35.498 73.682)" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".084846">
+  <circle cx="309.74" cy="349.12" r="2.8437" fill="#bebebe"/>
+  <circle cx="309.74" cy="349.12" r="1.1202" fill="#ececec"/>
+ </g>
+ <g transform="translate(-235.95 73.682)" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".084846">
+  <circle cx="309.74" cy="349.12" r="2.8437" fill="#bebebe"/>
+  <circle cx="309.74" cy="349.12" r="1.1202" fill="#ececec"/>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -247.88 -300.37)">
+  <rect x="226.61" y="375.91" width="46.102" height="13.098" rx=".013315" ry=".0028552" fill="#f9f9f9" fill-rule="evenodd" stroke="#000" stroke-width=".27806"/>
+  <g transform="translate(-25.554,-25.586)">
+   <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="252.18 386.54 256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+   <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="256.98 383.94 253.58 383.94 252.18 383.94 252.18 386.54 256.98 386.54" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+  </g>
+  <g transform="translate(-25.702,-25.938)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+   <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+   <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+  </g>
+  <g transform="translate(-63.529,-25.586)">
+   <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="252.18 386.54 256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+   <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="256.98 383.94 253.58 383.94 252.18 383.94 252.18 386.54 256.98 386.54" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+  </g>
+  <g transform="translate(-63.678,-25.938)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+   <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+   <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+  </g>
+  <g transform="translate(-55.934,-25.586)">
+   <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="252.18 386.54 256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+   <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="256.98 383.94 253.58 383.94 252.18 383.94 252.18 386.54 256.98 386.54" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+  </g>
+  <g transform="translate(-56.082,-25.938)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+   <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+   <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+  </g>
+  <g transform="translate(-24.113 -.39832)">
+   <g transform="translate(-24.226,-25.187)">
+    <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+     <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+     <g transform="translate(-151.47,32.922)">
+      <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+       <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+       <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+      </g>
+      <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+       <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="253.58 383.94 252.18 383.94 252.18 386.54 256.98 386.54 256.98 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+      </g>
+     </g>
+    </g>
+    <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+    <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+     <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+     <g transform="translate(-151.47,32.922)">
+      <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+       <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+       <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+      </g>
+      <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+       <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="252.18 386.54 256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+      </g>
+     </g>
+    </g>
+    <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+   </g>
+   <g transform="translate(-24.375,-25.54)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+    <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+    <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+    <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+    <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+   </g>
+  </g>
+  <g transform="translate(-1.3277 -.39832)">
+   <g transform="translate(-15.19)">
+    <g transform="translate(-24.226,-25.187)">
+     <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+      <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+      <g transform="translate(-151.47,32.922)">
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+        <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+       </g>
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="253.58 383.94 252.18 383.94 252.18 386.54 256.98 386.54 256.98 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+       </g>
+      </g>
+     </g>
+     <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+     <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+      <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+      <g transform="translate(-151.47,32.922)">
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+        <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+       </g>
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="252.18 386.54 256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+       </g>
+      </g>
+     </g>
+     <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+    </g>
+    <g transform="translate(-24.375,-25.54)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+     <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+     <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+     <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+     <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(-1.3277 -.39832)">
+   <g transform="translate(-7.595)">
+    <g transform="translate(-24.226,-25.187)">
+     <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+      <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+      <g transform="translate(-151.47,32.922)">
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+        <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+       </g>
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="253.58 383.94 252.18 383.94 252.18 386.54 256.98 386.54 256.98 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+       </g>
+      </g>
+     </g>
+     <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+     <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+      <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+      <g transform="translate(-151.47,32.922)">
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+        <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+       </g>
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="252.18 386.54 256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+       </g>
+      </g>
+     </g>
+     <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+    </g>
+    <g transform="translate(-24.375,-25.54)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+     <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+     <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+     <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+     <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -340.19 -300.37)">
+  <rect x="226.61" y="375.91" width="46.102" height="13.098" rx=".013315" ry=".0028552" fill="#f9f9f9" fill-rule="evenodd" stroke="#000" stroke-width=".27806"/>
+  <g transform="translate(-25.554,-25.586)">
+   <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94 252.18 386.54" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+   <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="253.58 383.94 252.18 383.94 252.18 386.54 256.98 386.54 256.98 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+  </g>
+  <g transform="translate(-25.702,-25.938)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+   <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+   <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+  </g>
+  <g transform="translate(-63.529,-25.586)">
+   <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94 252.18 386.54" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+   <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="253.58 383.94 252.18 383.94 252.18 386.54 256.98 386.54 256.98 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+  </g>
+  <g transform="translate(-63.678,-25.938)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+   <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+   <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+  </g>
+  <g transform="translate(-55.934,-25.586)">
+   <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94 252.18 386.54" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+   <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+    <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+    <g transform="translate(-151.47,32.922)">
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+      <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+     </g>
+     <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+      <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="253.58 383.94 252.18 383.94 252.18 386.54 256.98 386.54 256.98 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+     </g>
+    </g>
+   </g>
+   <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+  </g>
+  <g transform="translate(-56.082,-25.938)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+   <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+   <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+   <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+  </g>
+  <g transform="translate(-24.113 -.39832)">
+   <g transform="translate(-24.226,-25.187)">
+    <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+     <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+     <g transform="translate(-151.47,32.922)">
+      <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+       <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+       <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+      </g>
+      <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+       <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="252.18 383.94 252.18 386.54 256.98 386.54 256.98 383.94 253.58 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+      </g>
+     </g>
+    </g>
+    <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+    <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+     <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+     <g transform="translate(-151.47,32.922)">
+      <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+       <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+       <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+      </g>
+      <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+       <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94 252.18 386.54" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+      </g>
+     </g>
+    </g>
+    <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+   </g>
+   <g transform="translate(-24.375,-25.54)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+    <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+    <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+    <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+    <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+   </g>
+  </g>
+  <g transform="translate(-1.3277 -.39832)">
+   <g transform="translate(-15.19)">
+    <g transform="translate(-24.226,-25.187)">
+     <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+      <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+      <g transform="translate(-151.47,32.922)">
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+        <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+       </g>
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="252.18 383.94 252.18 386.54 256.98 386.54 256.98 383.94 253.58 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+       </g>
+      </g>
+     </g>
+     <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+     <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+      <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+      <g transform="translate(-151.47,32.922)">
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+        <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+       </g>
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94 252.18 386.54" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+       </g>
+      </g>
+     </g>
+     <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+    </g>
+    <g transform="translate(-24.375,-25.54)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+     <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+     <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+     <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+     <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(-1.3277 -.39832)">
+   <g transform="translate(-7.595)">
+    <g transform="translate(-24.226,-25.187)">
+     <g transform="matrix(.57571 0 0 .6712 217.97 133.51)">
+      <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+      <g transform="translate(-151.47,32.922)">
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+        <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+       </g>
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="252.18 383.94 252.18 386.54 256.98 386.54 256.98 383.94 253.58 383.94" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+       </g>
+      </g>
+     </g>
+     <rect x="292.69" y="405.33" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+     <g transform="matrix(-.57571 0 0 -.6712 370.5 682.61)">
+      <rect x="125.95" y="399.76" width="13.005" height="6.133" fill="#bfbfbf" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".098128"/>
+      <g transform="translate(-151.47,32.922)">
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <rect x="251.98" y="383.74" width="11.333" height="5.639"/>
+        <rect x="251.98" y="383.74" width="11.319" height="5.6234" fill="none" stroke="#7f7f7f" stroke-width=".2"/>
+       </g>
+       <g transform="matrix(1.1392,0,0,1.0628,-9.5661,-40.967)">
+        <polygon transform="matrix(2.2457,0,0,1.9606,-314.08,-368.76)" points="256.98 386.54 256.98 383.94 253.58 383.94 252.18 383.94 252.18 386.54" fill="none" stroke="#7f7f7f" stroke-width=".023002"/>
+       </g>
+      </g>
+     </g>
+     <rect transform="scale(-1)" x="-295.79" y="-410.79" width="3.0982" height=".18777" rx=".025173" ry=".0057804" fill="#999" fill-rule="evenodd"/>
+    </g>
+    <g transform="translate(-24.375,-25.54)" fill="#008000" fill-rule="evenodd" stroke="#2d5016" stroke-width=".23766">
+     <path d="m292.24 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+     <path d="m292.15 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+     <path d="m297.54 409.19c-6e-3 0.0158-1.1492 0.0158-1.155 0-6e-3 -0.0158 0.56594-1.5781 0.57749-1.5781 0.0115 0 0.58326 1.5623 0.57748 1.5781z"/>
+     <path d="m295.37 407.63c6e-3 -0.0158 1.1492-0.0158 1.155 0 6e-3 0.0158-0.56594 1.5781-0.57749 1.5781-0.0115 0-0.58326-1.5623-0.57748-1.5781z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <rect x="70.4" y="440.12" width="54.034" height="2.3998" fill="#b3b3b3"/>
+ <rect x="223.36" y="440.12" width="54.034" height="2.3998" fill="#b3b3b3"/>
+ <rect x="84.057" y="442.54" width="179.68" height="1.2256" fill="#666"/>
+ <g transform="translate(0 .79142)" fill="#000000" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+  <text x="269.41553" y="433.71582" font-size="40px" style="line-height:1.25" xml:space="preserve"><tspan x="269.41553" y="433.71582" fill="#000000" font-size="5.3333px">zl</tspan></text>
+  <text x="267.58096" y="436.86777" font-size="2.0866px" stroke-width=".39124" style="line-height:1.25" xml:space="preserve"><tspan x="267.58096" y="436.86777" fill="#000000" stroke-width=".39124">Module</tspan></text>
+ </g>
+ <g transform="translate(0 -.094382)" fill="#000000" font-family="sans-serif" font-size="2.0866px" font-weight="bold" letter-spacing="0px" stroke-width=".39124" word-spacing="0px">
+  <text x="73.47879" y="430.72464" style="line-height:1.25" xml:space="preserve"><tspan x="73.47879" y="430.72464" fill="#000000" font-family="sans-serif" font-weight="bold" stroke-width=".39124">24p SFP</tspan></text>
+  <text x="72.780876" y="434.26559" style="line-height:1.25" xml:space="preserve"><tspan x="72.780876" y="434.26559" fill="#000000" font-family="sans-serif" font-weight="bold" stroke-width=".39124">v2 zl Mod</tspan></text>
+  <text x="74.275032" y="437.36539" style="line-height:1.25" xml:space="preserve"><tspan x="74.275032" y="437.36539" fill="#000000" font-family="sans-serif" font-weight="bold" stroke-width=".39124">J9537A</tspan></text>
+ </g>
+ <g>
+  <rect x="161.9" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="90.564" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="104.74" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="119.04" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="133.28" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="147.54" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="182.77" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="197.06" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="211.31" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="225.6" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="239.8" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="254.05" y="401.77" width="5.3849" height="4.2513"/>
+  <rect x="254.05" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="239.8" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="225.6" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="211.31" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="197.06" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="182.77" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="90.564" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="104.74" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="119.04" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="133.28" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="147.54" y="434.41" width="5.3849" height="4.2513"/>
+  <rect x="161.9" y="434.41" width="5.3849" height="4.2513"/>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -243.46 -301.8)">
+  <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+   <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">1</tspan>
+  </text>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -229.19 -301.8)">
+  <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+   <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">3</tspan>
+  </text>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -200.65 -301.8)">
+  <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+   <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">7</tspan>
+  </text>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -186.39 -301.8)">
+  <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+   <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">9</tspan>
+  </text>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -244.65 -301.8)">
+  <g transform="translate(.63193 17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">2</tspan>
+   </text>
+  </g>
+  <g transform="translate(8.227,17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">4</tspan>
+   </text>
+  </g>
+  <g transform="translate(15.822,17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">6</tspan>
+   </text>
+  </g>
+  <g transform="translate(23.417,17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">8</tspan>
+   </text>
+  </g>
+  <g transform="translate(31.012,17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">10</tspan>
+   </text>
+  </g>
+  <g transform="translate(38.607,17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">12</tspan>
+   </text>
+  </g>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -172.12 -301.8)">
+  <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+   <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">11</tspan>
+  </text>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -214.92 -301.8)">
+  <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+   <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">5</tspan>
+  </text>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -249.31 -301.8)">
+  <g transform="translate(52.207)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">13</tspan>
+   </text>
+  </g>
+  <g transform="translate(59.802)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">15</tspan>
+   </text>
+  </g>
+  <g transform="translate(67.397)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">17</tspan>
+   </text>
+  </g>
+  <g transform="translate(74.992)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">19</tspan>
+   </text>
+  </g>
+  <g transform="translate(82.587)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">21</tspan>
+   </text>
+  </g>
+  <g transform="translate(90.182)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">23</tspan>
+   </text>
+  </g>
+ </g>
+ <g transform="matrix(1.8786 0 0 1.8829 -152.42 -301.8)">
+  <g transform="translate(.63193 17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">14</tspan>
+   </text>
+  </g>
+  <g transform="translate(8.227,17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">16</tspan>
+   </text>
+  </g>
+  <g transform="translate(15.822,17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">18</tspan>
+   </text>
+  </g>
+  <g transform="translate(23.417,17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">20</tspan>
+   </text>
+  </g>
+  <g transform="translate(31.012,17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">22</tspan>
+   </text>
+  </g>
+  <g transform="translate(38.607,17.429)">
+   <text transform="scale(1.0397 .96177)" x="173.45682" y="390.23068" fill="#000000" font-family="sans-serif" font-size="1.7552px" style="line-height:0%">
+    <tspan x="172.35254" y="390.23068" fill="#ffffff" font-family="sans-serif" font-weight="bold" text-align="center" text-anchor="middle">24</tspan>
+   </text>
+  </g>
+ </g>
+</svg>
