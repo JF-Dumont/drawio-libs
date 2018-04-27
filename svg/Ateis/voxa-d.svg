@@ -1,0 +1,69 @@
+<svg width="250" height="146.33" version="1.1" viewBox="0 0 66.145833 38.716213" xmlns="http://www.w3.org/2000/svg">
+ <rect x="-1.504e-14" y="-1.2207e-6" width="66.146" height="8.4667" rx="1.472" ry=".52917" fill="#e9ddaf"/>
+ <g transform="matrix(.28222 0 0 .28222 3.1227 -78.19)" fill-rule="evenodd">
+  <rect x="75.869" y="278.1" width="14.4" height="11.5" fill="#e6e6e6"/>
+  <g transform="translate(0,-1.1875)">
+   <path d="m88.994 289.08v-6.8288h-2.611v-1.8863h-1.1603v-0.84919h-4.3075v0.84919h-1.1603v1.8863h-2.611v6.8288z" fill="#1a1a1a"/>
+   <path d="m76.351 280.39h3.2686c0.0054 0 0.0099 4e-3 0.0099 0.01v1.734c0 6e-3 -0.0044 0.01-0.0099 0.01h-3.2686c-0.0054 0-0.0099-4e-3 -0.0099-0.01v-1.734c0-6e-3 0.0044-0.01 0.0099-0.01z" fill="#aad400" stroke="#222b00" stroke-linecap="round" stroke-width=".049315"/>
+   <path d="m86.518 280.39h3.2686c0.0054 0 0.0099 4e-3 0.0099 0.01v1.734c0 6e-3 -0.0044 0.01-0.0099 0.01h-3.2686c-0.0054 0-0.0099-4e-3 -0.0099-0.01v-1.734c0-6e-3 0.0044-0.01 0.0099-0.01z" fill="#aad400" stroke="#222b00" stroke-linecap="round" stroke-width=".049315"/>
+  </g>
+ </g>
+ <g transform="translate(.28213 -273.74)">
+  <rect x="18.429" y="274.64" width="2.1668" height="2.6209" fill="#1a1a1a" stroke="#000" stroke-width=".10583"/>
+  <g transform="translate(-2.6936,20.345)">
+   <circle cx="22.206" cy="255.38" r=".89769"/>
+   <circle cx="22.206" cy="255.38" r=".28939" fill="#ccc"/>
+  </g>
+ </g>
+ <text x="24.075245" y="4.106688" fill="#ffffff" font-family="sans-serif" font-size=".64783px" letter-spacing="0px" stroke-width=".016196" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="24.075245" y="4.106688" fill="#000000" font-family="sans-serif" stroke-width=".016196">ETHERNET POE</tspan></text>
+ <g transform="matrix(.0080362 0 0 .0080376 31.4 1.2)">
+  <path d="m568.96 320.02c-5.6975-0.91139-12.919-4.0599-16.84-7.3421-5.3851-4.5076-8.2945-10.036-8.6549-16.446-0.51409-9.1432 4.7034-17.515 13.939-22.366 16.679-8.7603 39.015-2.9591 45.994 11.946 1.7051 3.6413 2.1209 5.4454 2.1209 9.201 0 3.7674-0.70325 6.5973-2.4974 10.05-3.4241 6.5891-10.619 11.865-19.351 14.189-2.0283 0.53994-4.0644 0.74626-8.1759 0.82842-3.0112 0.0602-5.9518 0.0332-6.5347-0.0601zm146.61-289.12-6.9047-22.299l29.884 1.0034s6.8442 0.81471 6.8442-3.4714c0-6.3355-24.228-22.762-31.066-29.6s-4.5731-26.655 5.7487-32.08 8.398-3.6555 49.301-3.6469l6.643 22.863c-11.386-1.3174-34.17-4.727-34.17 2.3418 0 6.8133 15.306 14.328 28.556 26.936 14.724 16.099 6.5305 33.848-10.994 37.531zm-345.59-0.25679 31.539-89.404h38.629l32.126 89.101-31.186 0.61814-6.936-20.848-28.021 0.18468-6.0474 20.487-30.104-0.1389zm59.991-38.555-10.223-33.293-9.5579 33.33zm70.292-29.647-30.289-0.18412 6.4553-20.487 76.695-0.17973 6.4034 20.667-30.301 0.18412v68.518h-28.964zm70.998-20.848h65.971l6.3143 19.256-43.336 0.52502 0.1915 13.952 39.385 0.34553-6.8916 19.347-32.67 0.61814v15.189l46.979 0.23698-7.5943 19.894-68.349 0.0025zm92.545 0h29.671v89.366h-29.671zm-10.067-23.489 18.544-0.18834v15.907h-18.734zm31.26-0.18834 18.544 0.18834 0.19 15.719h-18.734z" stroke-width=".35322"/>
+  <path d="m579.17 47.036-186.6 241.95h87.98l92.623-124.47h3.3114l90.46 124.47h90.432zm191.2 259.59h-90.605l8.6651 11.923h90.723zm-302.42 0h-88.987l-9.1958 11.923h88.782z"/>
+ </g>
+ <text x="39.777245" y="2.5225089" fill="#000000" font-family="sans-serif" font-size="1.4499px" letter-spacing="0px" stroke-width=".036248" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="39.777245" y="2.5225089" fill="#000000" font-family="sans-serif" font-weight="bold" stroke-width=".036248">VOX@D</tspan></text>
+ <g transform="translate(0,-258.28)">
+  <text x="-5.2255206" y="286.28436" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-5.2255206" y="295.64813" stroke-width=".26458"/></text>
+  <rect x=".434" y="263.04" width="65.278" height="33.528" rx="32.639" ry="2.7954" fill="#4c4b4f" stroke="#454447" stroke-width=".86801"/>
+  <rect x="25.07" y="271.24" width="32.741" height="18.911" fill="#466862" stroke="#3f3e41" stroke-width=".885"/>
+ </g>
+ <circle cx="11.62" cy="12.99" r=".45937" fill="#008000"/>
+ <text x="10.308201" y="14.44345" fill="#ffffff" font-family="sans-serif" font-size=".7184px" letter-spacing="0px" stroke-width=".0009696" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="10.308201" y="14.44345" fill="#ffffff" font-family="sans-serif" stroke-width=".0009696">POWER</tspan></text>
+ <circle cx="14.673" cy="12.99" r=".45937" fill="#1e0000"/>
+ <text x="13.583931" y="14.44345" fill="#ffffff" font-family="sans-serif" font-size=".7184px" letter-spacing="0px" stroke-width=".0009696" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="13.583931" y="14.44345" fill="#ffffff" font-family="sans-serif" stroke-width=".0009696">FAULT</tspan></text>
+ <circle cx="17.666" cy="12.99" r=".45937" fill="#1e0000"/>
+ <text x="16.710678" y="14.417785" fill="#ffffff" font-family="sans-serif" font-size=".7184px" letter-spacing="0px" stroke-width=".0009696" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="16.710678" y="14.417785" fill="#ffffff" font-family="sans-serif" stroke-width=".0009696">EVAC</tspan></text>
+ <g stroke="#1a1a1a" stroke-width=".13229">
+  <circle cx="7.2099" cy="33.1" r=".78678"/>
+  <circle cx="10.129" cy="33.1" r=".78678"/>
+  <circle cx="13.047" cy="33.1" r=".78678"/>
+  <circle cx="6.2177" cy="12.99" r="1.4065"/>
+ </g>
+ <text x="5.0029545" y="11.081908" fill="#ffffff" font-family="sans-serif" font-size=".7184px" letter-spacing="0px" stroke-width=".0009696" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="5.0029545" y="11.081908" fill="#ffffff" font-family="sans-serif" stroke-width=".0009696">MICRO</tspan></text>
+ <g transform="translate(0,-258.28)" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".42333">
+  <path d="m6.2177 277.08h10.229"/>
+  <path d="m6.2177 284.96h10.229"/>
+  <path d="m14.206 278.39h2.241"/>
+  <path d="m12.742 279.7h3.7042"/>
+  <path d="m11.278 281.02h5.1687"/>
+  <path d="m9.8206 282.33h6.626"/>
+  <path d="m8.3674 283.65h8.0791"/>
+  <path d="m6.2177 278.39h6.9233"/>
+  <path d="m6.2177 279.7h5.4674"/>
+  <path d="m6.2177 281.02h4.0018"/>
+  <path d="m6.2177 282.33h2.5435"/>
+  <path d="m6.2177 283.65h1.1007"/>
+ </g>
+ <circle cx="6.2177" cy="12.99" r=".76158" fill="#1a1a1a" stroke="#333" stroke-width=".13229"/>
+ <path d="m6.2177 13.027v11.573" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".97896"/>
+ <path d="m6.1746 20.244c0.82373 0 1.3933 0.34506 1.491 1.0044l0.60093 8.4894h-4.1839l0.60093-8.4894c0.097677-0.80968 0.66727-1.0044 1.491-1.0044z" fill="#1a1a1a"/>
+ <path d="m6.1746 28.182a1.929 1.614 0 0 0 -1.929 1.6148 1.929 1.614 0 0 0 1.929 1.6132 1.929 1.614 0 0 0 1.929 -1.6132 1.929 1.614 0 0 0 -1.929 -1.6148z" fill="#333" stroke="#000" stroke-linecap="round" stroke-width=".32578"/>
+ <g fill="#666">
+  <ellipse cx="6.1746" cy="26.759" rx=".1849" ry=".35132"/>
+  <ellipse transform="rotate(4.5758)" cx="7.721" cy="26.302" rx=".1849" ry=".35132"/>
+  <ellipse transform="rotate(4.9945)" cx="7.355" cy="26.504" rx=".1849" ry=".35132"/>
+  <ellipse transform="rotate(7.7791)" cx="8.1141" cy="26.616" rx=".1849" ry=".35132"/>
+  <ellipse transform="rotate(-3.4411)" cx="5.1242" cy="27.179" rx=".1849" ry=".35132"/>
+  <ellipse transform="rotate(-2.1099)" cx="6.3181" cy="27.278" rx=".1849" ry=".35132"/>
+  <ellipse transform="rotate(-3.359)" cx="6.2684" cy="27.856" rx=".1849" ry=".35132"/>
+ </g>
+</svg>

@@ -1,0 +1,105 @@
+<svg width="109" height="66" version="1.1" viewBox="0 0 28.839583 17.4625" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -279.54)">
+  <g>
+   <rect x="-2.3904e-9" y="279.54" width="28.84" height="8.4667" rx=".52917" ry=".52917" fill="#4c4b4f"/>
+   <circle cx="11.025" cy="283.29" r=".45937" fill="#008000"/>
+   <circle cx="12.966" cy="283.29" r=".45937" fill="#008000"/>
+   <circle cx="11.996" cy="285" r=".45937"/>
+  </g>
+  <g transform="translate(.047247 8.6955)">
+   <rect x="18.429" y="274.64" width="2.1668" height="2.6209" fill="#1a1a1a" stroke="#000" stroke-width=".10583"/>
+   <g transform="translate(-2.6936 20.345)">
+    <circle cx="22.206" cy="255.38" r=".89769"/>
+    <circle cx="22.206" cy="255.38" r=".28939" fill="#ccc"/>
+   </g>
+  </g>
+  <g transform="translate(-.094494 27.337)">
+   <circle cx="15.994" cy="256.83" r=".79139" fill="#1a1a1a" stroke="#000" stroke-width=".052917"/>
+   <circle cx="15.994" cy="256.83" r=".49019"/>
+  </g>
+  <g transform="matrix(.0041628 0 0 .0041635 5.2194 280.65)" fill="#fff">
+   <path d="m568.96 320.02c-5.6975-0.91139-12.919-4.0599-16.84-7.3421-5.3851-4.5076-8.2945-10.036-8.6549-16.446-0.51409-9.1432 4.7034-17.515 13.939-22.366 16.679-8.7603 39.015-2.9591 45.994 11.946 1.7051 3.6413 2.1209 5.4454 2.1209 9.201 0 3.7674-0.70325 6.5973-2.4974 10.05-3.4241 6.5891-10.619 11.865-19.351 14.189-2.0283 0.53994-4.0644 0.74626-8.1759 0.82842-3.0112 0.0602-5.9518 0.0332-6.5347-0.0601zm146.61-289.12-6.9047-22.299 29.884 1.0034s6.8442 0.81471 6.8442-3.4714c0-6.3355-24.228-22.762-31.066-29.6s-4.5731-26.655 5.7487-32.08 8.398-3.6555 49.301-3.6469l6.643 22.863c-11.386-1.3174-34.17-4.727-34.17 2.3418 0 6.8133 15.306 14.328 28.556 26.936 14.724 16.099 6.5305 33.848-10.994 37.531zm-345.59-0.25679 31.539-89.404h38.629l32.126 89.101-31.186 0.61814-6.936-20.848-28.021 0.18468-6.0474 20.487-30.104-0.1389zm59.991-38.555-10.223-33.293-9.5579 33.33zm70.292-29.647-30.289-0.18412 6.4553-20.487 76.695-0.17973 6.4034 20.667-30.301 0.18412v68.518h-28.964zm70.998-20.848h65.971l6.3143 19.256-43.336 0.52502 0.1915 13.952 39.385 0.34553-6.8916 19.347-32.67 0.61814v15.189l46.979 0.23698-7.5943 19.894-68.349 0.0025zm92.545 0h29.671v89.366h-29.671zm-10.067-23.489 18.544-0.18834v15.907h-18.734zm31.26-0.18834 18.544 0.18834 0.19 15.719h-18.734z" stroke-width=".35322"/>
+   <path d="m579.17 47.036-186.6 241.95h87.98l92.623-124.47h3.3114l90.46 124.47h90.432zm191.2 259.59h-90.605l8.6651 11.923h90.723zm-302.42 0h-88.987l-9.1958 11.923h88.782z"/>
+  </g>
+  <rect x="22.621" y="281.98" width="4.2913" height="3.6401"/>
+  <g transform="matrix(.28222 0 0 .28222 1.369 203.67)" fill-rule="evenodd">
+   <rect x="75.869" y="278.1" width="14.4" height="11.5" fill="#e6e6e6"/>
+   <g transform="translate(0,-1.1875)">
+    <path d="m88.994 289.08v-6.8288h-2.611v-1.8863h-1.1603v-0.84919h-4.3075v0.84919h-1.1603v1.8863h-2.611v6.8288z" fill="#1a1a1a"/>
+    <path d="m76.351 280.39h3.2686c0.0054 0 0.0099 4e-3 0.0099 0.01v1.734c0 6e-3 -0.0044 0.01-0.0099 0.01h-3.2686c-0.0054 0-0.0099-4e-3 -0.0099-0.01v-1.734c0-6e-3 0.0044-0.01 0.0099-0.01z" fill="#aad400" stroke="#222b00" stroke-linecap="round" stroke-width=".049315"/>
+    <path d="m86.518 280.39h3.2686c0.0054 0 0.0099 4e-3 0.0099 0.01v1.734c0 6e-3 -0.0044 0.01-0.0099 0.01h-3.2686c-0.0054 0-0.0099-4e-3 -0.0099-0.01v-1.734c0-6e-3 0.0044-0.01 0.0099-0.01z" fill="#aad400" stroke="#222b00" stroke-linecap="round" stroke-width=".049315"/>
+   </g>
+  </g>
+  <g fill="#ffffff" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+   <g font-size=".64783px" stroke-width=".016196">
+    <text x="23.058321" y="281.19443" style="line-height:1.25" xml:space="preserve"><tspan x="23.058321" y="281.19443" fill="#ffffff" font-family="sans-serif" stroke-width=".016196">ETHERNET</tspan></text>
+    <text x="24.146784" y="286.4827" style="line-height:1.25" xml:space="preserve"><tspan x="24.146784" y="286.4827" fill="#ffffff" font-family="sans-serif" stroke-width=".016196">POE</tspan></text>
+    <text x="19.543325" y="282.34427" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="19.543325" y="282.34427" text-align="center">+24VDC</tspan><tspan x="19.543325" y="283.15405" text-align="center">INPUT</tspan></text>
+    <text x="13.459614" y="283.09665" style="line-height:1.25" xml:space="preserve"><tspan x="13.459614" y="283.09665" fill="#ffffff" font-family="sans-serif" stroke-width=".016196">STATUS</tspan></text>
+    <text x="8.1183825" y="283.31555" style="line-height:1.25" xml:space="preserve"><tspan x="8.1183825" y="283.31555" fill="#ffffff" font-family="sans-serif" stroke-width=".016196">POWER</tspan></text>
+   </g>
+   <text x="11.029355" y="281.32101" font-size="1.4499px" stroke-width=".036248" style="line-height:1.25" xml:space="preserve"><tspan x="11.029355" y="281.32101" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".036248">TERRA-EX</tspan></text>
+  </g>
+  <text x="-5.2255206" y="286.28436" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-5.2255206" y="295.64813" stroke-width=".26458"/></text>
+  <rect x="-5.5194e-10" y="288.53" width="28.84" height="8.4667" rx=".52917" ry=".52917" fill="#4c4b4f"/>
+  <g>
+   <rect x="2.2168" y="293.35" width="5.5315" height="2.1828"/>
+   <rect x="8.5855" y="293.35" width="3.4502" height="2.1828"/>
+   <rect x="12.894" y="293.35" width="4.5259" height="2.1828"/>
+   <rect x="20.264" y="293.35" width="4.4732" height="2.1828"/>
+  </g>
+  <rect x="2.3008" y="293.5" width="5.4058" height="1.9134" fill="#88cf6d"/>
+  <g>
+   <rect x="2.5478" y="293.67" width=".81851" height="1.5669"/>
+   <rect x="3.5711" y="293.67" width=".81851" height="1.5669"/>
+   <rect x="4.5945" y="293.67" width=".81851" height="1.5669"/>
+   <rect x="5.6178" y="293.67" width=".81851" height="1.5669"/>
+   <rect x="6.6412" y="293.67" width=".81851" height="1.5669"/>
+  </g>
+  <rect x="8.6151" y="293.5" width="3.351" height="1.9182" fill="#88cf6d"/>
+  <g>
+   <rect x="8.7733" y="293.67" width=".81851" height="1.5669"/>
+   <rect x="9.8813" y="293.67" width=".81851" height="1.5669"/>
+   <rect x="10.989" y="293.67" width=".81851" height="1.5669"/>
+  </g>
+  <rect x="12.965" y="293.59" width="4.4763" height="1.819" fill="#88cf6d"/>
+  <g>
+   <rect x="13.231" y="293.73" width=".81851" height="1.5669"/>
+   <rect x="14.273" y="293.72" width=".81851" height="1.5669"/>
+   <rect x="15.315" y="293.72" width=".81851" height="1.5669"/>
+   <rect x="16.357" y="293.72" width=".81851" height="1.5669"/>
+  </g>
+  <rect x="20.308" y="293.61" width="4.4236" height="1.8025" fill="#88cf6d"/>
+  <g>
+   <rect x="20.534" y="293.73" width=".81851" height="1.5669"/>
+   <rect x="21.585" y="293.73" width=".81851" height="1.5669"/>
+   <rect x="22.636" y="293.73" width=".81851" height="1.5669"/>
+   <rect x="23.687" y="293.73" width=".81851" height="1.5669"/>
+  </g>
+  <g fill="#ffffff" font-family="sans-serif" font-size=".64783px" font-weight="bold" letter-spacing="0px" stroke-width=".016196" word-spacing="0px">
+   <text x="2.6856329" y="296.05521" style="line-height:1.25" xml:space="preserve"><tspan x="2.6856329" y="296.05521" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">+</tspan></text>
+   <text x="3.8459487" y="296.0386" style="line-height:1.25" xml:space="preserve"><tspan x="3.8459487" y="296.0386" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">-</tspan></text>
+   <text x="4.8095131" y="296.02896" style="line-height:1.25" xml:space="preserve"><tspan x="4.8095131" y="296.02896" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">s</tspan></text>
+   <text x="5.7556791" y="296.05521" style="line-height:1.25" xml:space="preserve"><tspan x="5.7556791" y="296.05521" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">+</tspan></text>
+   <text x="6.9159951" y="296.0386" style="line-height:1.25" xml:space="preserve"><tspan x="6.9159951" y="296.0386" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">-</tspan></text>
+   <text x="8.6644497" y="296.08795" style="line-height:1.25" xml:space="preserve"><tspan x="8.6644497" y="296.08795" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">NC</tspan></text>
+   <text x="9.7945433" y="296.08795" style="line-height:1.25" xml:space="preserve"><tspan x="9.7945433" y="296.08795" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">RC</tspan></text>
+   <text x="10.838282" y="296.08795" style="line-height:1.25" xml:space="preserve"><tspan x="10.838282" y="296.08795" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">NO</tspan></text>
+   <text x="13.400562" y="296.08826" style="line-height:1.25" xml:space="preserve"><tspan x="13.400562" y="296.08826" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">1</tspan></text>
+   <text x="14.45923" y="296.09253" style="line-height:1.25" xml:space="preserve"><tspan x="14.45923" y="296.09253" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">2</tspan></text>
+   <text x="15.502717" y="296.08795" style="line-height:1.25" xml:space="preserve"><tspan x="15.502717" y="296.08795" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">3</tspan></text>
+   <text x="16.324366" y="296.08795" style="line-height:1.25" xml:space="preserve"><tspan x="16.324366" y="296.08795" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">GND</tspan></text>
+   <text x="19.545584" y="296.08795" style="line-height:1.25" xml:space="preserve"><tspan x="19.545584" y="296.08795" fill="#ffffff" font-family="sans-serif" font-weight="bold" stroke-width=".016196">24V+RX TX GND</tspan></text>
+  </g>
+  <g>
+   <rect x="2.3037" y="291.5" width="5.3578" height="1.604" fill="#fff"/>
+   <text x="2.4377635" y="292.13696" fill="#4c4b4f" font-family="sans-serif" font-size=".61486px" letter-spacing="0px" stroke-width=".015371" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="2.4377635" y="292.13696">AUDIO LINE OUT</tspan><tspan x="2.4377635" y="292.90555">OUT-1       OUT-2</tspan></text>
+   <rect x="8.6817" y="291.5" width="3.2577" height="1.604" fill="#fff"/>
+   <text x="10.292531" y="292.13696" fill="#4c4b4f" font-family="sans-serif" font-size=".61486px" letter-spacing="0px" stroke-width=".015371" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="10.292531" y="292.13696" text-align="center">CONTACT</tspan><tspan x="10.292531" y="292.90555" text-align="center">OUTPUT</tspan></text>
+   <rect x="13.528" y="291.5" width="3.2577" height="1.604" fill="#fff"/>
+   <text x="15.138671" y="292.13696" fill="#4c4b4f" font-family="sans-serif" font-size=".61486px" letter-spacing="0px" stroke-width=".015371" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="15.138671" y="292.13696" text-align="center">CONTACT</tspan><tspan x="15.138671" y="292.90555" text-align="center">INPUT</tspan></text>
+   <rect x="21.414" y="292.35" width="2.1745" height=".75242" fill="#fff"/>
+   <text x="22.544996" y="292.95551" fill="#4c4b4f" font-family="sans-serif" font-size=".61486px" font-weight="bold" letter-spacing="0px" stroke-width=".015371" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="22.544996" y="292.95551" fill="#4c4b4f" font-family="sans-serif" font-weight="normal" stroke-width=".015371" text-align="center" text-anchor="middle">RS232</tspan></text>
+  </g>
+ </g>
+</svg>
