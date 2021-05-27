@@ -1,0 +1,157 @@
+<svg width="207" height="42.7" version="1.1" viewBox="70.4 401.06667 207 42.700001" xmlns="http://www.w3.org/2000/svg">
+ <path d="m71.389 401.45c-0.54822 0-0.98828 0.35958-0.98828 0.80469v39.46c0 0.44512 0.44007 0.80274 0.98828 0.80274h205.02c0.54822 0 0.98828-0.35762 0.98828-0.80274v-39.46c0-0.44511-0.44006-0.80469-0.98828-0.80469zm3.7598 4.734c2.0215-1.7e-4 3.6604 1.6387 3.6602 3.6602 1.66e-4 2.0215-1.6387 3.6604-3.6602 3.6602-2.0215 1.7e-4 -3.6604-1.6387-3.6602-3.6602-1.66e-4 -2.0215 1.6387-3.6604 3.6602-3.6602z" fill="#ccc" stroke-width="1.3871"/>
+ <g fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".084846">
+  <circle cx="274.24" cy="422.8" r="2.8437" fill="#bebebe"/>
+  <circle cx="274.24" cy="422.8" r="1.1202" fill="#ececec"/>
+  <circle cx="73.79" cy="422.8" r="2.8437" fill="#bebebe"/>
+  <circle cx="73.79" cy="422.8" r="1.1202" fill="#ececec"/>
+ </g>
+ <rect x="70.4" y="440.12" width="54.034" height="2.3998" fill="#b3b3b3"/>
+ <rect x="223.36" y="440.12" width="54.034" height="2.3998" fill="#b3b3b3"/>
+ <rect x="84.057" y="442.54" width="179.68" height="1.2256" fill="#666"/>
+ <text x="74.540871" y="432.9913" fill="#000000" font-family="sans-serif" font-size="9.0765px" font-weight="bold" letter-spacing="0px" stroke-width=".29592" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="74.540871" y="432.9913" fill="#000000" font-family="sans-serif" font-size="1.5128px" font-weight="bold" stroke-width=".29592">8p SFP+</tspan></text>
+ <text x="74.21933" y="438.521" fill="#000000" font-family="sans-serif" font-weight="bold" letter-spacing="0px" stroke-width=".39124" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="74.21933" y="438.521" fill="#000000" font-family="sans-serif" font-size="2px" font-weight="bold" stroke-width=".39124">J9993A</tspan></text>
+ <g transform="translate(-.45548 3.6133)">
+  <rect x="99.403" y="408.05" width="5.3849" height="4.2513"/>
+  <path d="m101.22 410.76h0.57044v-1.4977l-0.58555 0.11174v-0.40663l0.58218-0.11174h0.61408v1.9044h0.57044v0.41284h-1.7516z" fill="#fff"/>
+ </g>
+ <g transform="translate(29.585 -22.751)">
+  <rect x="90.564" y="434.41" width="5.3849" height="4.2513"/>
+  <path d="m93.065 437.28h1.0987v0.44066h-1.8144v-0.44066l0.9114-0.74897c0.67208-0.67649-0.20858-1.0249-0.90453-0.52927v-0.51072c0.87434-0.26633 1.791-0.16133 1.791 0.55902-0.0194 0.39057-0.27317 0.56141-0.54851 0.79412z" fill="#fff"/>
+ </g>
+ <g transform="translate(57.814 -22.751)">
+  <rect x="104.74" y="434.41" width="5.3849" height="4.2513"/>
+  <path d="m107.5 435.86-0.69846 0.98428h0.69846zm-0.10604-0.49923h0.70839v1.4835h0.35255v0.43938h-0.35255v0.42837h-0.60246v-0.42837h-1.0957v-0.5197z" fill="#fff"/>
+ </g>
+ <g transform="translate(64.716 9.8889)">
+  <rect x="119.04" y="401.77" width="5.3849" height="4.2513"/>
+  <path d="m120.9 402.71h1.583v0.44029h-1.0752v0.35939c0.76225-0.13724 1.2538 0.18063 1.2538 0.76549 0 0.87279-1.0647 0.92282-1.8592 0.64886v-0.47141c0.66048 0.38878 1.2224 0.21563 1.2224-0.17736 0-0.47051-0.5925-0.47647-1.1248-0.25834z" fill="#fff"/>
+ </g>
+ <g transform="translate(92.88 9.8889)">
+  <rect x="133.28" y="401.77" width="5.3849" height="4.2513"/>
+  <path d="m135.02 402.74h1.8955v0.33699l-0.98062 1.9816h-0.63185l0.9284-1.8791h-1.2115z" fill="#fff"/>
+ </g>
+ <g transform="translate(114.08 -22.751)">
+  <rect x="133.28" y="434.41" width="5.3849" height="4.2513"/>
+  <path d="m135.98 436.66c-0.23504 0-0.37844 0.12413-0.37844 0.35414 0 0.2301 0.17072 0.3525 0.37844 0.3525 0.20771 0 0.37328-0.10365 0.37328-0.3525 0-0.24881-0.13818-0.35414-0.37328-0.35414zm-0.47473-0.19722c-0.41897-0.10998-0.46287-0.38925-0.46287-0.52489 0-0.49921 0.49456-0.60092 0.93766-0.60092 0.68803 0 0.93428 0.26281 0.93428 0.60092 0 0.34435-0.29471 0.47967-0.46462 0.52489 0.40341 0.10745 0.51857 0.35296 0.51857 0.58234 0 0.57602-0.49659 0.6972-0.98835 0.6972-0.69727 0.0145-0.9934-0.26779-0.9934-0.6972 0-0.431 0.30669-0.52552 0.51873-0.58234zm0.15198-0.46434c0 0.21646 0.16244 0.28724 0.3227 0.28724 0.16028 0 0.31764-0.0649 0.31764-0.28724 0-0.22226-0.15474-0.28566-0.31764-0.28566-0.16283 0-0.3227 0.0692-0.3227 0.28566z" fill="#fff"/>
+ </g>
+ <g transform="translate(36.612 9.8889)">
+  <rect x="104.74" y="401.77" width="5.3849" height="4.2513"/>
+  <path d="m107.86 403.81c0.38662 0.10336 0.51581 0.34598 0.51581 0.58911 0 0.80926-1.1898 0.77182-1.8841 0.58614v-0.45925c0.60788 0.27696 1.2394 0.22301 1.2394-0.14848 0.0157-0.34236-0.55269-0.32006-0.55269-0.32006h-0.2579v-0.38346h0.27131c0.14637 0 0.48075-5e-3 0.48075-0.28458 0-0.40106-0.76758-0.2827-1.0734-0.1501v-0.43604c0.82218-0.21988 1.7183-0.12215 1.7183 0.49339 0 0.35557-0.25306 0.45854-0.45748 0.51333z" fill="#fff"/>
+ </g>
+ <g transform="translate(85.918 -22.751)">
+  <rect x="119.04" y="434.41" width="5.3849" height="4.2513"/>
+  <path d="m120.73 436.56c0 0.66794 0.31197 1.1699 1.0312 1.1699 0.39994 0 0.97352-0.16222 0.97852-0.82032 0-0.60496-0.6981-0.99704-1.3887-0.60156 0-0.4558 0.38951-0.76647 1.2226-0.45117v-0.42968c-1.1262-0.30177-1.8436 0.23517-1.8436 1.1328zm1.039-0.0195c0.27204 0 0.34375 0.19797 0.34375 0.40821s-0.0798 0.40625-0.34375 0.40625c-0.26397 0-0.3418-0.16457-0.3418-0.40625 0-0.24167 0.0697-0.40821 0.3418-0.40821z" fill="#fff"/>
+ </g>
+ <g transform="translate(0 3.6133)">
+  <g transform="translate(4.3728 -30.088)">
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" stroke="#000" stroke-width=".8"/>
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" fill="none" stroke="#b3b3b3" stroke-width=".2"/>
+   <rect x="94.318" y="457.66" width="5.898" height="1" rx=".047" ry=".010884" fill="#999" fill-rule="evenodd" stroke="#000" stroke-width=".5"/>
+  </g>
+  <g>
+   <circle cx="98.822" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <circle cx="104.46" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <text x="97.330025" y="415.56879" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="97.330025" y="415.56879" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Link</tspan></text>
+   <text x="102.57091" y="415.57767" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="102.57091" y="415.57767" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Mode</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(21.202 3.6133)">
+  <g transform="translate(4.3728 -30.088)">
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" stroke="#000" stroke-width=".8"/>
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" fill="none" stroke="#b3b3b3" stroke-width=".2"/>
+   <rect x="94.318" y="457.66" width="5.898" height="1" rx=".047" ry=".010884" fill="#999" fill-rule="evenodd" stroke="#000" stroke-width=".5"/>
+  </g>
+  <g>
+   <circle cx="98.822" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <circle cx="104.46" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <text x="97.330025" y="415.56879" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="97.330025" y="415.56879" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Link</tspan></text>
+   <text x="102.57091" y="415.57767" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="102.57091" y="415.57767" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Mode</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(42.404 3.6133)">
+  <g transform="translate(4.3728 -30.088)">
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" stroke="#000" stroke-width=".8"/>
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" fill="none" stroke="#b3b3b3" stroke-width=".2"/>
+   <rect x="94.318" y="457.66" width="5.898" height="1" rx=".047" ry=".010884" fill="#999" fill-rule="evenodd" stroke="#000" stroke-width=".5"/>
+  </g>
+  <g>
+   <circle cx="98.822" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <circle cx="104.46" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <text x="97.330025" y="415.56879" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="97.330025" y="415.56879" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Link</tspan></text>
+   <text x="102.57091" y="415.57767" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="102.57091" y="415.57767" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Mode</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(63.606 3.6133)">
+  <g transform="translate(4.3728 -30.088)">
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" stroke="#000" stroke-width=".8"/>
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" fill="none" stroke="#b3b3b3" stroke-width=".2"/>
+   <rect x="94.318" y="457.66" width="5.898" height="1" rx=".047" ry=".010884" fill="#999" fill-rule="evenodd" stroke="#000" stroke-width=".5"/>
+  </g>
+  <g>
+   <circle cx="98.822" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <circle cx="104.46" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <text x="97.330025" y="415.56879" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="97.330025" y="415.56879" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Link</tspan></text>
+   <text x="102.57091" y="415.57767" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="102.57091" y="415.57767" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Mode</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(84.809 3.6133)">
+  <g transform="translate(4.3728 -30.088)">
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" stroke="#000" stroke-width=".8"/>
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" fill="none" stroke="#b3b3b3" stroke-width=".2"/>
+   <rect x="94.318" y="457.66" width="5.898" height="1" rx=".047" ry=".010884" fill="#999" fill-rule="evenodd" stroke="#000" stroke-width=".5"/>
+  </g>
+  <g>
+   <circle cx="98.822" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <circle cx="104.46" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <text x="97.330025" y="415.56879" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="97.330025" y="415.56879" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Link</tspan></text>
+   <text x="102.57091" y="415.57767" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="102.57091" y="415.57767" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Mode</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(106.01 3.6133)">
+  <g transform="translate(4.3728 -30.088)">
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" stroke="#000" stroke-width=".8"/>
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" fill="none" stroke="#b3b3b3" stroke-width=".2"/>
+   <rect x="94.318" y="457.66" width="5.898" height="1" rx=".047" ry=".010884" fill="#999" fill-rule="evenodd" stroke="#000" stroke-width=".5"/>
+  </g>
+  <g>
+   <circle cx="98.822" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <circle cx="104.46" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <text x="97.330025" y="415.56879" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="97.330025" y="415.56879" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Link</tspan></text>
+   <text x="102.57091" y="415.57767" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="102.57091" y="415.57767" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Mode</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(127.21 3.6133)">
+  <g transform="translate(4.3728 -30.088)">
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" stroke="#000" stroke-width=".8"/>
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" fill="none" stroke="#b3b3b3" stroke-width=".2"/>
+   <rect x="94.318" y="457.66" width="5.898" height="1" rx=".047" ry=".010884" fill="#999" fill-rule="evenodd" stroke="#000" stroke-width=".5"/>
+  </g>
+  <g>
+   <circle cx="98.822" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <circle cx="104.46" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <text x="97.330025" y="415.56879" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="97.330025" y="415.56879" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Link</tspan></text>
+   <text x="102.57091" y="415.57767" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="102.57091" y="415.57767" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Mode</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(148.41 3.6133)">
+  <g transform="translate(4.3728 -30.088)">
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" stroke="#000" stroke-width=".8"/>
+   <rect x="90.599" y="450.24" width="13.336" height="8.3357" fill="none" stroke="#b3b3b3" stroke-width=".2"/>
+   <rect x="94.318" y="457.66" width="5.898" height="1" rx=".047" ry=".010884" fill="#999" fill-rule="evenodd" stroke="#000" stroke-width=".5"/>
+  </g>
+  <g>
+   <circle cx="98.822" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <circle cx="104.46" cy="417.45" r=".9375" fill="#003500" stroke="#000" stroke-width=".3"/>
+   <text x="97.330025" y="415.56879" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="97.330025" y="415.56879" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Link</tspan></text>
+   <text x="102.57091" y="415.57767" fill="#000000" font-family="sans-serif" font-size="1.2094px" letter-spacing="0px" stroke-width=".030235" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="102.57091" y="415.57767" font-family="sans-serif" font-weight="bold" stroke-width=".030235">Mode</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(1.111 .62892)" fill="#000000" font-family="sans-serif" font-weight="bold" letter-spacing="0px" word-spacing="0px">
+  <text transform="scale(1.0041 .99592)" x="265.18042" y="434.42361" font-size="32.862px" stroke-width=".82156" style="line-height:1.25" xml:space="preserve"><tspan x="265.18042" y="434.42361" fill="#000000" font-family="sans-serif" font-size="4.3816px" font-weight="bold" letter-spacing="-.10563px" stroke-width=".82156">zl2</tspan></text>
+  <text x="264.77301" y="436.22595" font-size="1.7866px" stroke-width=".33498" style="line-height:1.25" xml:space="preserve"><tspan x="264.77301" y="436.22595" fill="#000000" font-family="sans-serif" font-weight="bold" letter-spacing="-.07887px" stroke-width=".33498">v3 Module</tspan></text>
+ </g>
+ <rect x="264.96" y="427.83" width="11.562" height="11.188" rx="1" ry="1" fill="none" stroke="#000" stroke-width=".3"/>
+ <rect x="71.03" y="428.46" width="15.042" height="11.188" rx="1" ry="1" fill="none" stroke="#000" stroke-width=".3"/>
+ <path class="st1" d="m78.658 430.31c0 0.45898-0.36719 0.83192-0.81471 0.83192-0.44751 0-0.8147-0.37294-0.8147-0.83192v-0.7057s0.39015 0.0975 0.39015 0.51063v0.19507c0 0.25244 0.18933 0.45325 0.42456 0.45325 0.23523 0 0.42457-0.20081 0.42457-0.45325v-0.40736 6e-3c0.01723-0.34425 0.30982-0.45326 0.38441-0.49343h6e-3v0.89504zm-2.0941-0.82618c0.10902 0 0.21229 0.0172 0.30408 0.0574v0.43604c-0.08032-0.0688-0.18933-0.10902-0.30408-0.10902-0.25818 0-0.46472 0.20082-0.46472 0.45326v0.82044h-0.39015v-1.5032s0.16065 6e-3 0.26392 0.0804c0.14917-0.14919 0.36146-0.23524 0.59095-0.23524m-1.8704 1.2851c-0.25818 0-0.47047-0.20656-0.47047-0.459s0.21228-0.45899 0.47047-0.45899 0.47046 0.20655 0.47046 0.45899-0.21228 0.459-0.47046 0.459m0-1.2851c-0.47047 0-0.84913 0.37293-0.84913 0.82618 0 0.45899 0.37868 0.82618 0.84913 0.82618 0.19507 0 0.37293-0.0631 0.51636-0.17212 0.08607 0.14343 0.33277 0.17212 0.33277 0.17212v-0.82618c0-0.45325-0.37867-0.82618-0.84913-0.82618m6.7874 1.2851c-0.25819 0-0.47047-0.20656-0.47047-0.459s0.21228-0.45899 0.47047-0.45899c0.25818 0 0.47046 0.20655 0.47046 0.45899s-0.21228 0.459-0.47046 0.459m0-1.2851c-0.47047 0-0.84913 0.37293-0.84913 0.82618 0 0.45899 0.37866 0.82618 0.84913 0.82618 0.19507 0 0.37293-0.0631 0.51636-0.17212 0.08607 0.14343 0.33276 0.17212 0.33276 0.17212v-0.82618c0-0.45325-0.37867-0.82618-0.84913-0.82618m-1.8015 1.2851c-0.25819 0-0.47047-0.20656-0.47047-0.459s0.21228-0.45899 0.47047-0.45899c0.25818 0 0.47046 0.20655 0.47046 0.45899 6e-3 0.25244-0.20655 0.459-0.47046 0.459m0-1.2851c-0.17212 0-0.33276 0.0516-0.47047 0.1377v-0.13196c-0.01723-0.34425-0.29834-0.45326-0.37293-0.49342h-6e-3v2.1458s0.25244-0.0287 0.34998-0.16639c0.14343 0.0975 0.31556 0.16065 0.49916 0.16065 0.47047 0 0.84913-0.37292 0.84913-0.82618 6e-3 -0.45325-0.37866-0.82618-0.84913-0.82618" stroke-width=".93887"/>
+</svg>
