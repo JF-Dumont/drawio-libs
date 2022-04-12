@@ -1,0 +1,74 @@
+<svg width="441.2" height="88.8" version="1.1" viewBox="66 376 234.32 28.82" xmlns="http://www.w3.org/2000/svg">
+ <path d="m299.92 367.22h-233.53v46.371h233.53z" fill="#003e7e" stroke="#000" stroke-width=".16635" style="fill:#000;stroke-width:.79028;stroke:#3e4652"/>
+ <rect x="80.771" y="366.96" width="5.2512" height="46.872" style="fill:#313841;stroke-linejoin:round;stroke-opacity:.99692;stroke-width:.26468;stroke:#000"/>
+ <path d="m66.083 366.91 2e-6 46.995h14.689v-30.718h4.0158c0.554 0 0.99994-0.44594 0.99994-0.99993v-2.5901c0-0.55399-0.44594-0.99993-0.99994-0.99993h-4.0158l-2e-6 -11.687h-14.689z" fill="#003e7e" stroke-width=".14285" style="fill:#3e4652;stroke:#000"/>
+ <g transform="matrix(.40008 0 0 .40008 -3.3197 221.48)">
+  <path d="m219.84 398.3c0 2.0739-1.6252 3.7577-3.626 3.7577s-3.6247-1.6839-3.6247-3.7577c0-2.0752 1.6238-3.759 3.6247-3.759 2.0008 0 3.626 1.6839 3.626 3.759z" fill="#666" stroke="#000" stroke-width=".092955"/>
+  <path d="m218.91 398.3c0 1.5365-1.2078 2.7847-2.696 2.7847s-2.6947-1.2482-2.6947-2.7847 1.2065-2.7834 2.6947-2.7834 2.696 1.2469 2.696 2.7834z" fill="#fff" stroke="#000" stroke-width=".092955"/>
+  <g transform="translate(-15.637,3.7357)" stroke-width=".1">
+   <path d="m231.3 392.15v1.9609" fill="none" stroke="#999"/>
+   <g shape-rendering="auto">
+    <path d="m229.39 394.11v1h1.9219v1.9219h1" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" solid-color="#000000" stroke="#999" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path d="m231.4 392.1v1.9219h-1.9219v1h1.9219v1.9219h1v-1.9219h1.9219v-1h-1.9219v-1.9219z" color="#000000" color-rendering="auto" fill="#333" fill-rule="evenodd" image-rendering="auto" solid-color="#000000" stroke="#000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   </g>
+  </g>
+ </g>
+ <text x="68.811203" y="370.59134" style="font-family:sans-serif;font-size:2.6607px;line-height:1.25;stroke-width:.16629" xml:space="preserve"><tspan x="68.811203" y="370.59134" style="fill:#ffffff;font-family:sans-serif;font-weight:bold;stroke-width:.16629">ZYXEL</tspan></text>
+ <rect x="72.217" y="376.26" width="2.6555" height="29.582" rx="1.3277" style="fill:#2d333c;stroke-linejoin:round;stroke-opacity:.99692;stroke-width:.26554"/>
+ <rect x="150.04" y="366.96" width="5.2512" height="46.872" style="fill:#313841;stroke-linejoin:round;stroke-opacity:.99692;stroke-width:.26468;stroke:#000"/>
+ <rect x="294.98" y="367.03" width="5.2512" height="46.872" style="fill:#313841;stroke-linejoin:round;stroke-opacity:.99692;stroke-width:.26468;stroke:#000"/>
+ <rect x="144.79" y="366.96" width="5.2512" height="46.872" style="fill:#313841;stroke-linejoin:round;stroke-opacity:.99692;stroke-width:.26468;stroke:#000"/>
+ <g transform="translate(.28655 -47.309)">
+  <rect x="150.17" y="415.19" width="149.54" height="10.519" rx=".53109" ry=".53109" style="fill:#3e4652"/>
+  <g transform="translate(-.025095)">
+   <g transform="translate(.10921 -11.328)">
+    <circle cx="152.82" cy="430.56" r="1.3277" style="fill:#ccc"/>
+    <path d="m152.56 429.64v0.65972h-0.65972v0.51656h0.65972v0.65972h0.51657v-0.65972h0.65971v-0.51656h-0.65971v-0.65972z" style="fill:#666"/>
+   </g>
+   <g transform="translate(144.19 -11.328)">
+    <circle cx="152.82" cy="430.56" r="1.3277" style="fill:#ccc"/>
+    <path d="m152.56 429.64v0.65972h-0.65972v0.51656h0.65972v0.65972h0.51657v-0.65972h0.65971v-0.51656h-0.65971v-0.65972z" style="fill:#666"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(.28655 -35.768)">
+  <rect x="150.17" y="415.19" width="149.54" height="10.519" rx=".53109" ry=".53109" style="fill:#3e4652"/>
+  <g transform="translate(-.025095)">
+   <g transform="translate(.10921 -11.328)">
+    <circle cx="152.82" cy="430.56" r="1.3277" style="fill:#ccc"/>
+    <path d="m152.56 429.64v0.65972h-0.65972v0.51656h0.65972v0.65972h0.51657v-0.65972h0.65971v-0.51656h-0.65971v-0.65972z" style="fill:#666"/>
+   </g>
+   <g transform="translate(144.19 -11.328)">
+    <circle cx="152.82" cy="430.56" r="1.3277" style="fill:#ccc"/>
+    <path d="m152.56 429.64v0.65972h-0.65972v0.51656h0.65972v0.65972h0.51657v-0.65972h0.65971v-0.51656h-0.65971v-0.65972z" style="fill:#666"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(.28655 -24.227)">
+  <rect x="150.17" y="415.19" width="149.54" height="10.519" rx=".53109" ry=".53109" style="fill:#3e4652"/>
+  <g transform="translate(-.025095)">
+   <g transform="translate(.10921 -11.328)">
+    <circle cx="152.82" cy="430.56" r="1.3277" style="fill:#ccc"/>
+    <path d="m152.56 429.64v0.65972h-0.65972v0.51656h0.65972v0.65972h0.51657v-0.65972h0.65971v-0.51656h-0.65971v-0.65972z" style="fill:#666"/>
+   </g>
+   <g transform="translate(144.19 -11.328)">
+    <circle cx="152.82" cy="430.56" r="1.3277" style="fill:#ccc"/>
+    <path d="m152.56 429.64v0.65972h-0.65972v0.51656h0.65972v0.65972h0.51657v-0.65972h0.65971v-0.51656h-0.65971v-0.65972z" style="fill:#666"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(.28655 -12.686)">
+  <rect x="150.17" y="415.19" width="149.54" height="10.519" rx=".53109" ry=".53109" style="fill:#3e4652"/>
+  <g transform="translate(-.025095)">
+   <g transform="translate(.10921 -11.328)">
+    <circle cx="152.82" cy="430.56" r="1.3277" style="fill:#ccc"/>
+    <path d="m152.56 429.64v0.65972h-0.65972v0.51656h0.65972v0.65972h0.51657v-0.65972h0.65971v-0.51656h-0.65971v-0.65972z" style="fill:#666"/>
+   </g>
+   <g transform="translate(144.19 -11.328)">
+    <circle cx="152.82" cy="430.56" r="1.3277" style="fill:#ccc"/>
+    <path d="m152.56 429.64v0.65972h-0.65972v0.51656h0.65972v0.65972h0.51657v-0.65972h0.65971v-0.51656h-0.65971v-0.65972z" style="fill:#666"/>
+   </g>
+  </g>
+ </g>
+ <text x="69.749779" y="372.448" style="font-family:sans-serif;font-size:1.394px;line-height:1.25;stroke-width:.087123" xml:space="preserve"><tspan x="69.749779" y="372.448" style="fill:#ffffff;font-family:sans-serif;font-weight:bold;stroke-width:.087123">IES4105M</tspan></text>
+</svg>

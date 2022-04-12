@@ -1,0 +1,120 @@
+<svg width="130" height="42" version="1.1" viewBox="66 376 69.042 13.631" xmlns="http://www.w3.org/2000/svg">
+ <rect x="71.288" y="389.83" width="58.466" height="3.858" rx=".53109" style="fill:#1a1a1a"/>
+ <path d="m66.531 371.66c-0.29422 0-0.53109 0.23985-0.53109 0.53777v17.325c0 0.29792 0.23687 0.53777 0.53109 0.53777h10.569v3.3674c0 0.29793 0.23687 0.53777 0.53109 0.53777h45.78c0.29423 0 0.53109-0.23984 0.53109-0.53777v-3.3674h10.569c0.29422 0 0.53109-0.23985 0.53109-0.53777v-17.325c0-0.29792-0.23687-0.53777-0.53109-0.53777z" style="fill:#3e4652"/>
+ <g transform="translate(62.16 .35602)">
+  <circle cx="6.3808" cy="383.16" r="2.6555" style="fill:#e6e6e6;stroke-linejoin:round;stroke-width:.26554;stroke:#999"/>
+  <circle cx="6.3808" cy="383.17" r="1.5402" style="fill:#ccc;stroke-linejoin:round;stroke-width:.10622;stroke:#4d4d4d"/>
+  <rect x="4.895" y="382.87" width="2.9717" height=".65584" rx=".50479" ry=".070358" style="fill:#999"/>
+ </g>
+ <g transform="translate(126.08 .4046)">
+  <circle cx="6.3808" cy="383.16" r="2.6555" style="fill:#e6e6e6;stroke-linejoin:round;stroke-width:.26554;stroke:#999"/>
+  <circle cx="6.3808" cy="383.17" r="1.5402" style="fill:#ccc;stroke-linejoin:round;stroke-width:.10622;stroke:#4d4d4d"/>
+  <rect x="4.895" y="382.87" width="2.9717" height=".65584" rx=".50479" ry=".070358" style="fill:#999"/>
+ </g>
+ <rect x="107.6" y="372.48" width="17.969" height="7.534" rx=".053109" ry=".053109" style="fill:#333;stroke-linejoin:round;stroke-width:.053109;stroke:#000"/>
+ <g transform="translate(-.092864 21.41)">
+  <rect x="107.88" y="351.24" width="8.6233" height="7.2797" style="fill:#ececec;stroke-width:.53109"/>
+  <path d="m115.4 357.45v-4.0312h-1.5632v-0.61793h-0.60783v-0.49996h-2.0798v0.49996h-0.60783v0.61793h-1.5642v4.0312z" style="stroke-linejoin:round;stroke-opacity:.99692;stroke-width:.47798"/>
+  <rect transform="scale(-1)" x="-116.07" y="-353.02" width="1.9805" height=".91059" style="fill:#ffe680;stroke-width:.53109"/>
+  <rect transform="scale(-1)" x="-110.29" y="-353.02" width="1.9805" height=".91059" style="fill:#aade87;stroke-width:.53109"/>
+ </g>
+ <g transform="translate(8.8452 21.41)">
+  <rect x="107.88" y="351.24" width="8.6233" height="7.2797" style="fill:#ececec;stroke-width:.53109"/>
+  <path d="m115.4 357.45v-4.0312h-1.5632v-0.61793h-0.60783v-0.49996h-2.0798v0.49996h-0.60783v0.61793h-1.5642v4.0312z" style="stroke-linejoin:round;stroke-opacity:.99692;stroke-width:.47798"/>
+  <rect transform="scale(-1)" x="-116.07" y="-353.02" width="1.9805" height=".91059" style="fill:#ffe680;stroke-width:.53109"/>
+  <rect transform="scale(-1)" x="-110.29" y="-353.02" width="1.9805" height=".91059" style="fill:#aade87;stroke-width:.53109"/>
+ </g>
+ <rect x="100.61" y="383.67" width="17.969" height="7.534" rx=".053109" ry=".053109" style="fill:#333;stroke-linejoin:round;stroke-width:.053109;stroke:#000"/>
+ <g transform="translate(-7.0839 32.595)">
+  <rect x="107.88" y="351.24" width="8.6233" height="7.2797" style="fill:#ececec;stroke-width:.53109"/>
+  <path d="m115.4 357.45v-4.0312h-1.5632v-0.61793h-0.60783v-0.49996h-2.0798v0.49996h-0.60783v0.61793h-1.5642v4.0312z" style="stroke-linejoin:round;stroke-opacity:.99692;stroke-width:.47798"/>
+  <rect transform="scale(-1)" x="-116.07" y="-353.02" width="1.9805" height=".91059" style="fill:#ffe680;stroke-width:.53109"/>
+  <rect transform="scale(-1)" x="-110.29" y="-353.02" width="1.9805" height=".91059" style="fill:#aade87;stroke-width:.53109"/>
+ </g>
+ <g transform="translate(1.8541 32.595)">
+  <rect x="107.88" y="351.24" width="8.6233" height="7.2797" style="fill:#ececec;stroke-width:.53109"/>
+  <path d="m115.4 357.45v-4.0312h-1.5632v-0.61793h-0.60783v-0.49996h-2.0798v0.49996h-0.60783v0.61793h-1.5642v4.0312z" style="stroke-linejoin:round;stroke-opacity:.99692;stroke-width:.47798"/>
+  <rect transform="scale(-1)" x="-116.07" y="-353.02" width="1.9805" height=".91059" style="fill:#ffe680;stroke-width:.53109"/>
+  <rect transform="scale(-1)" x="-110.29" y="-353.02" width="1.9805" height=".91059" style="fill:#aade87;stroke-width:.53109"/>
+ </g>
+ <g transform="matrix(.5665 0 0 .5665 -121.89 116.84)">
+  <rect transform="rotate(-90)" x="-464.58" y="354.88" width="8.3438" height="13.125" style="stroke-width:.14062;stroke:#000"/>
+  <path d="m367.88 456.35h-12.88v8.0987h3.4677v-0.48455h6.44v0.48455h2.9723z" style="fill:none;stroke-width:.24497;stroke:#ccc"/>
+ </g>
+ <g transform="matrix(.5665 0 0 .5665 -108.07 116.84)">
+  <rect transform="rotate(-90)" x="-464.58" y="354.88" width="8.3438" height="13.125" style="stroke-width:.14062;stroke:#000"/>
+  <path d="m367.88 456.35h-12.88v8.0987h3.4677v-0.48455h6.44v0.48455h2.9723z" style="fill:none;stroke-width:.24497;stroke:#ccc"/>
+ </g>
+ <g transform="translate(-.7014 15.516)">
+  <path d="m83.526 369.37c-0.65621 0-1.2093 0.58517-1.4273 1.4074h-1.4516c-0.5777 0-1.0423 0.46457-1.0423 1.0423v0.12503c0 0.5777 0.46456 1.0423 1.0423 1.0423h1.4516c0.21797 0.82223 0.77109 1.4063 1.4273 1.4063h7.38c0.65621 0 1.2093-0.58406 1.4273-1.4063h1.4516c0.5777 0 1.0423-0.46456 1.0423-1.0423v-0.12503c0-0.5777-0.46457-1.0423-1.0423-1.0423h-1.4516c-0.21797-0.82222-0.77109-1.4074-1.4273-1.4074z" style="fill-rule:evenodd;fill:#ececec;stroke-linecap:round;stroke-width:.055948;stroke:#333"/>
+  <g transform="translate(.64016 6.24)">
+   <g transform="matrix(.5665 0 0 .5665 -26.053 212.11)">
+    <path d="m189.01 272.01v-2.0135l-1.7484-1.0068-1.7484 1.0738v2.0135l1.7484 1.0077z" style="fill:#b3b3b3;stroke-width:.067244;stroke:#333"/>
+    <path d="m188.61 271.03c0 0.75957-0.60197 1.3766-1.3446 1.3766-0.74258 0-1.3446-0.61707-1.3446-1.3766 0-0.75955 0.60197-1.3757 1.3446-1.3757 0.74259 0 1.3446 0.61613 1.3446 1.3757z" style="fill:#ddd;stroke-width:.067244;stroke:#333"/>
+    <path d="m187.73 271.03c0 0.2406-0.21132 0.43687-0.47081 0.43687-0.25948 0-0.47084-0.19627-0.47084-0.43687s0.21136-0.43591 0.47084-0.43591c0.25949 0 0.47081 0.19531 0.47081 0.43591z" style="fill:#a4a4a4;stroke-width:.067244;stroke:#333"/>
+   </g>
+   <g transform="matrix(.5665 0 0 .5665 -12.963 212.11)">
+    <path d="m189.01 272.01v-2.0135l-1.7484-1.0068-1.7484 1.0738v2.0135l1.7484 1.0077z" style="fill:#b3b3b3;stroke-width:.067244;stroke:#333"/>
+    <path d="m188.61 271.03c0 0.75957-0.60197 1.3766-1.3446 1.3766-0.74258 0-1.3446-0.61707-1.3446-1.3766 0-0.75955 0.60197-1.3757 1.3446-1.3757 0.74259 0 1.3446 0.61613 1.3446 1.3757z" style="fill:#ddd;stroke-width:.067244;stroke:#333"/>
+    <path d="m187.73 271.03c0 0.2406-0.21132 0.43687-0.47081 0.43687-0.25948 0-0.47084-0.19627-0.47084-0.43687s0.21136-0.43591 0.47084-0.43591c0.25949 0 0.47081 0.19531 0.47081 0.43591z" style="fill:#a4a4a4;stroke-width:.067244;stroke:#333"/>
+   </g>
+  </g>
+  <g transform="translate(.52991 6.2804)">
+   <g transform="matrix(.5665 0 0 .5665 -13.652 219.18)">
+    <path d="m171.41 254.94h11.509c0.94773 0 1.5325 1.0739 1.3678 2.0072l-0.68654 3.8905c-0.1647 0.93332-0.76297 1.196-1.7107 1.196h-9.7941c-0.94773 0-1.5576-0.26069-1.7107-1.196l-0.68525-4.187c-0.15307-0.93529 0.76298-1.7107 1.7107-1.7107z" style="fill-rule:evenodd;fill:#ececec;stroke-linecap:round;stroke-width:.025737;stroke:#000"/>
+    <path d="m171.59 255.12h11.145c0.91776 0 1.4713 1.0356 1.3137 1.9246l-0.65398 3.6882c-0.15763 0.88899-0.73884 1.1382-1.6566 1.1382h-9.4952c-0.91775 0-1.5106-0.24722-1.6566-1.1382l-0.6527-3.9847c-0.14594-0.89098 0.73885-1.6281 1.6566-1.6281z" style="fill-rule:evenodd;fill:#1a1a1a;stroke-linecap:round;stroke-width:.024707;stroke:#000"/>
+   </g>
+   <g transform="translate(-.1893 -.064212)">
+    <circle cx="84.082" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+    <circle cx="85.291" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+    <circle cx="86.5" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+    <circle cx="87.708" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+    <circle cx="88.917" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+    <g transform="translate(.61 1.0488)">
+     <circle cx="84.082" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+     <circle cx="85.291" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+     <circle cx="86.5" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+     <circle cx="87.708" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+     <circle cx="88.917" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+    </g>
+    <g transform="translate(0 2.0976)">
+     <circle cx="84.082" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+     <circle cx="85.291" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+     <circle cx="86.5" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+     <circle cx="87.708" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+     <circle cx="88.917" cy="364.63" r=".31865" style="stroke-linejoin:round;stroke-width:.053109;stroke:#4d4d4d"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <text x="126.27616" y="374.31903" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="126.27616" y="374.31903" dx="0" style="fill:#ffffff;font-family:sans-serif;font-weight:bold;stroke-width:.076662">MSC1002GA</tspan></text>
+ <text x="122.82165" y="385.02478" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="122.82165" y="385.02478" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">PWR</tspan></text>
+ <text x="103.18224" y="392.95566" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="103.18224" y="392.95566" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">MGMT</tspan></text>
+ <text x="94.817154" y="391.96722" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="94.817154" y="391.96722" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">RESET</tspan></text>
+ <text x="111.17208" y="392.99899" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="111.17208" y="392.99899" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">CONSOLE</tspan></text>
+ <text x="111.12492" y="382.34644" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="111.12492" y="382.34644" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">E-1</tspan></text>
+ <text x="120.06776" y="382.34644" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="120.06776" y="382.34644" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">E-2</tspan></text>
+ <text x="81.804878" y="382.32907" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="81.804878" y="382.32907" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">O-1</tspan></text>
+ <text x="85.283432" y="392.44632" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="85.283432" y="392.44632" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">COM</tspan></text>
+ <text x="95.636948" y="382.32907" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="95.636948" y="382.32907" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">O-2</tspan></text>
+ <text x="122.86118" y="387.69537" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="122.86118" y="387.69537" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">SYS</tspan></text>
+ <text x="122.93245" y="389.92947" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="122.93245" y="389.92947" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">ALM</tspan></text>
+ <circle cx="121.16" cy="384.58" r=".79664" style="fill:#447821;stroke-linejoin:round;stroke-width:.053109;stroke:#5aa02c"/>
+ <circle cx="96.78" cy="389.56" r=".79664" style="fill:#333;stroke-linejoin:round;stroke-width:.053109;stroke:#000"/>
+ <circle cx="121.16" cy="387.25" r=".79664" style="fill:#447821;stroke-linejoin:round;stroke-width:.053109;stroke:#5aa02c"/>
+ <g transform="translate(0 -.0073372)">
+  <circle cx="102.89" cy="376.09" r=".79664" style="fill:#447821;stroke-linejoin:round;stroke-width:.053109;stroke:#5aa02c"/>
+  <circle cx="102.89" cy="378.76" r=".79664" style="fill:#447821;stroke-linejoin:round;stroke-width:.053109;stroke:#5aa02c"/>
+ </g>
+ <circle cx="121.16" cy="389.92" r=".79664" style="fill:#782121;stroke-linejoin:round;stroke-width:.053109;stroke:#c83737"/>
+ <text x="101.70105" y="381.23233" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="101.70105" y="381.23233" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">ACT</tspan></text>
+ <text x="101.47861" y="374.5155" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="101.47861" y="374.5155" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">LINK</tspan></text>
+ <g transform="translate(-14.922 -1.888)">
+  <g transform="translate(1.1812 1.8806)">
+   <circle cx="102.89" cy="376.09" r=".79664" style="fill:#447821;stroke-linejoin:round;stroke-width:.053109;stroke:#5aa02c"/>
+   <circle cx="102.89" cy="378.76" r=".79664" style="fill:#447821;stroke-linejoin:round;stroke-width:.053109;stroke:#5aa02c"/>
+  </g>
+  <text x="102.88228" y="383.1203" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="102.88228" y="383.1203" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">ACT</tspan></text>
+  <text x="102.65984" y="376.40347" style="font-family:sans-serif;font-size:1.2266px;letter-spacing:-.031866px;line-height:1.25;stroke-width:.076662" xml:space="preserve"><tspan x="102.65984" y="376.40347" style="fill:#ffffff;font-family:sans-serif;stroke-width:.076662">LINK</tspan></text>
+ </g>
+</svg>
