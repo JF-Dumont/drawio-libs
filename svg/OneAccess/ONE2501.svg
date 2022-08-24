@@ -1,0 +1,71 @@
+<svg width="295" height="44.5" version="1.1" viewBox="51 381 161.52 15.07" xmlns="http://www.w3.org/2000/svg">
+ <rect x="51.249" y="376.66" width="161" height="23.886" fill="#fff" opacity=".99" stroke-linejoin="round" stroke-width=".49856" style="fill:#2a2719;stroke:#000"/>
+ <rect x="66.292" y="391.33" width="3.7856" height="4.7297" fill="#999" stroke-width=".25945" style="fill:#1a1a1a;stroke:#000"/>
+ <ellipse cx="68.177" cy="393.34" rx=".96714" ry=".89029" fill="#ebebeb" fill-rule="evenodd" stroke-width=".91999" style="stroke:#000"/>
+ <rect x="118.94" y="386.68" width="37.234" height="13.815" style="fill:#f5d815"/>
+ <rect x="167.09" y="379.21" width="33.033" height="21.244" style="fill:#f5d815"/>
+ <circle cx="97.102" cy="393.21" r="1.095" style="stroke-linejoin:round;stroke-width:.4506;stroke:#d90909"/>
+ <text x="58.52203" y="385.54807" style="fill:#ffffff;font-family:sans-serif;font-size:3.1268px;line-height:1.25;stroke-width:.19543" xml:space="preserve"><tspan x="58.52203" y="385.54807" style="fill:#ffffff;font-family:sans-serif;font-style:italic;font-weight:bold;stroke-width:.19543">ONE 2501</tspan></text>
+ <text x="123.77103" y="388.38489" style="font-family:sans-serif;font-size:1.4825px;line-height:1.25;stroke-width:.092654" xml:space="preserve"><tspan x="123.77103" y="388.38489" style="font-family:sans-serif;font-weight:bold;stroke-width:.092654">0/0</tspan></text>
+ <text x="131.56262" y="388.38489" style="font-family:sans-serif;font-size:1.4825px;line-height:1.25;stroke-width:.092654" xml:space="preserve"><tspan x="131.56262" y="388.38489" style="font-family:sans-serif;font-weight:bold;stroke-width:.092654">0/1</tspan></text>
+ <text x="139.35207" y="388.38489" style="font-family:sans-serif;font-size:1.4825px;line-height:1.25;stroke-width:.092654" xml:space="preserve"><tspan x="139.35207" y="388.38489" style="font-family:sans-serif;font-weight:bold;stroke-width:.092654">0/2</tspan></text>
+ <text x="147.12268" y="388.38489" style="font-family:sans-serif;font-size:1.4825px;line-height:1.25;stroke-width:.092654" xml:space="preserve"><tspan x="147.12268" y="388.38489" style="font-family:sans-serif;font-weight:bold;stroke-width:.092654">0/3</tspan></text>
+ <text x="135.10796" y="388.44388" style="font-family:sans-serif;font-size:1.4825px;line-height:1.25;stroke-width:.092654" xml:space="preserve"><tspan x="135.10796" y="388.44388" style="font-family:sans-serif;font-weight:bold;stroke-width:.092654">ETH</tspan></text>
+ <text x="172.19954" y="388.38489" style="font-family:sans-serif;font-size:1.4825px;line-height:1.25;stroke-width:.092654" xml:space="preserve"><tspan x="172.19954" y="388.38489" style="font-family:sans-serif;font-weight:bold;stroke-width:.092654">1/0</tspan></text>
+ <text x="192.71855" y="382.07129" style="font-family:sans-serif;font-size:1.4825px;line-height:1.25;stroke-width:.092654" xml:space="preserve"><tspan x="192.71855" y="382.07129" style="font-family:sans-serif;font-weight:bold;stroke-width:.092654">1/0</tspan></text>
+ <text x="179.98898" y="388.38489" style="font-family:sans-serif;font-size:1.4825px;line-height:1.25;stroke-width:.092654" xml:space="preserve"><tspan x="179.98898" y="388.38489" style="font-family:sans-serif;font-weight:bold;stroke-width:.092654">2/0</tspan></text>
+ <text x="192.74353" y="398.9462" style="font-family:sans-serif;font-size:1.4825px;line-height:1.25;stroke-width:.092654" xml:space="preserve"><tspan x="192.74353" y="398.9462" style="font-family:sans-serif;font-weight:bold;stroke-width:.092654">2/0</tspan></text>
+ <text x="175.74487" y="388.44388" style="font-family:sans-serif;font-size:1.4825px;line-height:1.25;stroke-width:.092654" xml:space="preserve"><tspan x="175.74487" y="388.44388" style="font-family:sans-serif;font-weight:bold;stroke-width:.092654">ETH</tspan></text>
+ <path d="m120.79 396.34h31.949l-0.0237-7.0472-31.925-2.5e-4z" fill="#666" stroke="#000" stroke-width=".48344"/>
+ <path d="m144.87 391.16h1.8127l-3e-3 -1.0982 0.6597-5.8e-4v-0.41119h2.1264l-5e-4 0.41226h0.68665v1.0983h1.8044v4.7283l-7.0859 0.0153z" style="stroke-width:.99998"/>
+ <path d="m150.31 390.87h1.7904v-0.772h-1.7904z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+ <path d="m144.71 390.87h1.8061v-0.77602h-1.8061z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+ <path d="m137.08 391.16h1.8127l-3e-3 -1.0982 0.6597-5.8e-4v-0.41119h2.1264l-5e-4 0.41226h0.68666v1.0983h1.8044v4.7283l-7.086 0.0153z" style="stroke-width:.99998"/>
+ <path d="m142.52 390.87h1.7904v-0.772h-1.7904z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+ <path d="m136.92 390.87h1.8061v-0.77602h-1.8061z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+ <path d="m129.29 391.16h1.8127l-3e-3 -1.0982 0.6597-5.8e-4v-0.41119h2.1264l-4.9e-4 0.41226h0.68666v1.0983h1.8044v4.7283l-7.086 0.0153z" style="stroke-width:.99998"/>
+ <path d="m134.73 390.87h1.7904v-0.772h-1.7904z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+ <path d="m129.13 390.87h1.8061v-0.77602h-1.8061z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+ <path d="m121.59 391.16h1.8127l-3e-3 -1.0982 0.65969-5.9e-4v-0.41119h2.1264l-5e-4 0.41227h0.68667v1.0983h1.8044v4.7283l-7.086 0.0154z" style="stroke-width:.99998"/>
+ <path d="m127.03 390.87h1.7904v-0.77201h-1.7904z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+ <path d="m121.43 390.87h1.8061v-0.77603h-1.8061z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+ <path d="m123.68 389.35-2.8871 1e-3 0.034 6.9873h31.905l-2e-3 -6.9873-2.901-1e-3v0.69294l2.3322-1e-3v0.89723l-0.23097 7e-3v4.9191l-7.0617 0.045v-4.964l-0.2299-7e-3v-0.89722l2.3184 1e-3v-0.69293h-4.889v0.69293l2.3322-1e-3v0.89722l-0.23098 7e-3v4.9491l-7.0875 0.015v-4.964l-0.22991-7e-3v-0.89723l2.3173 1e-3v-0.69293h-4.8878v0.69293l2.3312-1e-3v0.89723l-0.22991 7e-3v4.9491l-7.0874 0.015v-4.964l-0.23099-7e-3v-0.89723l2.3184 1e-3v-0.69293l-2.3986 1e-3h-4e-3l-2.4018-1e-3v0.69293l2.3323-1e-3v0.89723l-0.22991 7e-3 -1e-3 4.9491-4e-3 5e-3 -7.0825 0.01-1e-3 -4.964-0.2299-7e-3v-0.89722l2.3183 1e-3z" fill="#ebebeb" stroke-width=".54751" style="fill:#f2f2f2"/>
+ <rect x="107.06" y="386.68" width="11.08" height="13.568" style="fill:#999"/>
+ <text x="109.1518" y="388.42276" style="fill:#000000;font-family:sans-serif;font-size:1.4265px;line-height:1.25;stroke-width:.089157" xml:space="preserve"><tspan x="109.1518" y="388.42276" style="fill:#000000;font-family:sans-serif;stroke-width:.089157">CONSOLE</tspan></text>
+ <g transform="translate(26.175 -6.69)">
+  <rect x="82.783" y="395.76" width="7.2861" height="6.5704" fill="#1a1a1a" stroke="#000" stroke-width=".081979"/>
+  <path d="m83.073 400.71h1.9558v0.83819h0.55881v0.55879h1.6764v-0.55879h0.55879v-0.83819h1.9558v-4.7316h-6.7056z" stroke="#808080" stroke-width=".082125"/>
+ </g>
+ <path d="m91.966 389.07h-4.483v6.9624h4.483z" style="fill:#484848;stroke-width:.036404;stroke:#000"/>
+ <path d="m91.796 389.24h-4.1787v6.5984h4.1787z" style="fill:#1a1a1a;stroke-width:.036404;stroke:#000"/>
+ <path d="m87.617 390.41h4.1947" style="fill:none;stroke-width:.036404;stroke:#7e7e7e"/>
+ <g transform="matrix(0 1.1418 -1.1418 0 117.24 141.79)" style="fill:#fff" aria-label="I">
+  <path d="m218.52 23.299h0.22557v1.6672h-0.22557z" style="fill:#fff;stroke-width:.012706px"/>
+ </g>
+ <g transform="matrix(0 1.1418 -1.1418 0 113.18 144.93)" style="fill:#fff" aria-label="O">
+  <path d="m218.63 19.902q-0.24567 0-0.39084 0.18314-0.14406 0.18314-0.14406 0.49917 0 0.31491 0.14406 0.49805 0.14517 0.18314 0.39084 0.18314 0.24568 0 0.38862-0.18314 0.14405-0.18314 0.14405-0.49805 0-0.31603-0.14405-0.49917-0.14294-0.18314-0.38862-0.18314zm0-0.18314q0.35065 0 0.56059 0.23563 0.20994 0.23451 0.20994 0.62982 0 0.3942-0.20994 0.62982-0.20994 0.23451-0.56059 0.23451-0.35176 0-0.56282-0.23451-0.20994-0.23451-0.20994-0.62982t0.20994-0.62982q0.21106-0.23563 0.56282-0.23563z" style="fill:#fff;stroke-width:.012706px"/>
+ </g>
+ <rect x="190.27" y="383.12" width="7.5836" height="13.503" rx=".013549" ry=".0029435" fill="#ccc" fill-rule="evenodd" stroke="#000" stroke-width=".28633" style="fill:#f2f2f2;stroke-width:.066985"/>
+ <g transform="matrix(1.0199 0 0 1.0309 109.55 -3.7889)">
+  <g transform="matrix(.5665 0 0 .5665 -121.89 116.84)">
+   <rect transform="rotate(-90)" x="-464.58" y="354.88" width="8.3438" height="13.125" style="stroke-width:.14062;stroke:#000"/>
+   <path d="m367.88 456.35h-12.88v8.0987h3.4677v-0.48455h6.44v0.48455h2.9723z" style="fill:none;stroke-width:.24497;stroke:#f9f9f9"/>
+  </g>
+ </g>
+ <g transform="matrix(-1.0199 0 0 -1.0309 278.59 783.53)">
+  <g transform="matrix(.5665 0 0 .5665 -121.89 116.84)">
+   <rect transform="rotate(-90)" x="-464.58" y="354.88" width="8.3438" height="13.125" style="stroke-width:.14062;stroke:#000"/>
+   <path d="m367.88 456.35h-12.88v8.0987h3.4677v-0.48455h6.44v0.48455h2.9723z" style="fill:none;stroke-width:.24497;stroke:#f9f9f9"/>
+  </g>
+ </g>
+ <g transform="translate(-3.3687 4.4817)">
+  <path d="m172.37 391.86h16.358l-0.0237-7.0472-16.335-2.5e-4z" fill="#666" stroke="#000" stroke-width=".48344"/>
+  <path d="m180.86 386.68h1.8127l-3e-3 -1.0982 0.6597-5.8e-4v-0.41119h2.1264l-5e-4 0.41226h0.68665v1.0983h1.8044v4.7283l-7.0859 0.0153z" style="stroke-width:.99998"/>
+  <path d="m186.3 386.39h1.7904v-0.772h-1.7904z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+  <path d="m180.7 386.39h1.8061v-0.77602h-1.8061z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+  <path d="m173.07 386.68h1.8127l-3e-3 -1.0982 0.6597-5.8e-4v-0.41119h2.1264l-5e-4 0.41226h0.68666v1.0983h1.8044v4.7283l-7.086 0.0153z" style="stroke-width:.99998"/>
+  <path d="m178.51 386.39h1.7904v-0.772h-1.7904z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+  <path d="m172.91 386.39h1.8061v-0.77602h-1.8061z" fill="#55d400" style="fill:#008000;stroke-width:.99998"/>
+  <path d="m188.72 391.85-2e-3 -6.9873-2.901-1e-3v0.69294l2.3322-1e-3v0.89723l-0.23097 7e-3v4.9191l-7.0617 0.045v-4.964l-0.2299-7e-3v-0.89722l2.3184 1e-3v-0.69293h-4.889v0.69293l2.3322-1e-3v0.89722l-0.23098 7e-3v4.9491l-7.0875 0.015v-4.964l-0.22991-7e-3v-0.89723l2.3173 1e-3v-0.69293c-1.6159 1e-3 -1.3196 5.9e-4 -2.7865 0l-5e-3 6.9881z" fill="#ebebeb" stroke-width=".54751" style="fill:#f2f2f2"/>
+ </g>
+</svg>
